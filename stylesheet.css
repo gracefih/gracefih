@@ -6,9 +6,6 @@ li {
     list-style: none;
 }
 
-git add stylesheet.css
-git commit -m"ditambahkan body"
-
 .header {
     background-color: #15599c;
     color: rgb(255, 255, 255);
