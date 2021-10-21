@@ -1,4 +1,11 @@
+body {
+    font-family: 'Love Ya Like A Sister', cursive;
+}
 
+li {
+    list-style: none;
+}
+git status
 
 .header {
     background-color: #15599c;
