@@ -7,7 +7,7 @@ li {
 }
 
 git add stylesheet.css
-git commit -m"ditambahkan body dan li"
+git commit -m"ditambahkan body"
 
 .header {
     background-color: #15599c;
